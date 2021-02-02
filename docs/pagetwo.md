@@ -14,7 +14,6 @@ nav_order: 2
 #Creating an equation  
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 # Embedding a video.
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/9N7oSJiKwiQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/xZtVCGtLU9g" frameborder="0" allow="accelerometer; autoplay=T; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 I think you should use an
 `<addr>` element here instead.
