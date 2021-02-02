@@ -13,3 +13,5 @@ nav_order: 2
 <sup>13</sup>CH<sub>2</sub>OH
 #Creating an equation  
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+# Embedding a video.
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/9N7oSJiKwiQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
