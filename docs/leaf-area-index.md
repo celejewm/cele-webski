@@ -15,7 +15,7 @@ It is true that the author of the CSCDGC article has identified and cited a rela
 
 ## References
 
-Center for the Study of Carbon Dioxide and Global Change, 2021. *CO2 Fertilization Effects on Global Leaf Area Index*. [online] CO2 Science. Available at: <http://www.co2science.org/articles/V24/jan/a5.php> [Accessed 6 Feb. 2021].
+Center for the Study of Carbon Dioxide and Global Change, 2021. *CO<sub>2</sub> Fertilization Effects on Global Leaf Area Index*. [online] CO<sub>2</sub> Science. Available at: <http://www.co2science.org/articles/V24/jan/a5.php> [Accessed 6 Feb. 2021].
 
 Hille, K., 2016. *Carbon Dioxide Fertilization Greening Earth, Study Finds*. [Text] NASA. Available at: <http://www.nasa.gov/feature/goddard/2016/carbon-dioxide-fertilization-greening-earth> [Accessed 6 Feb. 2021].
 
@@ -23,7 +23,7 @@ Holland, H.D. and Turekian, K.K., 2014. *Treatise on Geochemistry*. [online] Ava
 
 Jørgensen, S.E. and Fath, B.D., 2008. *Encyclopedia of Ecology*. Amsterdam; Boston: Elsevier.
 
-Sperry, J.S., Venturas, M.D., Todd, H.N., Trugman, A.T., Anderegg, W.R.L., Wang, Y. and Tai, X., 2019. The impact of rising CO2 and acclimation on the response of US forests to global warming. *Proceedings of the National Academy of Sciences*, 116(51), pp.25734–25744.
+Sperry, J.S., Venturas, M.D., Todd, H.N., Trugman, A.T., Anderegg, W.R.L., Wang, Y. and Tai, X., 2019. The impact of rising CO<sub>2</sub> and acclimation on the response of US forests to global warming. *Proceedings of the National Academy of Sciences*, 116(51), pp.25734–25744.
 
 Wang, M., Chen, J.M. and Wang, S., 2020. Reconstructing the Seasonality and Trend in Global Leaf Area Index During 2001–2017 for Prognostic Modeling. *Journal of Geophysical Research: Biogeosciences*, 125(9), p.e2020JG005698.
 
