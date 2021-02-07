@@ -11,12 +11,12 @@ While the range of costs and benefits of the rising LAI phenomenon is not comple
 
 It is true that the author of the CSCDGC article has identified and cited a relation between atmospheric CO<sub>2</sub> levels and the increase in foliage in forests worldwide; however, the conclusion that CO<sub>2</sub> is solely improving our ecosystems is a hasty generalization that fails to account for the role that CO<sub>2</sub> plays in the rise in global temperatures, and the effects that this could have on the sustainability of forests worldwide.  
 
-References
+**References**
 
-Center for the Study of Carbon Dioxide and Global Change, 2021. CO2 Fertilization Effects on Global Leaf Area Index. [online] CO2 Science. Available at: <http://www.co2science.org/articles/V24/jan/a5.php> [Accessed 6 Feb. 2021].
-Hille, K., 2016. Carbon Dioxide Fertilization Greening Earth, Study Finds. [Text] NASA. Available at: <http://www.nasa.gov/feature/goddard/2016/carbon-dioxide-fertilization-greening-earth> [Accessed 6 Feb. 2021].
-Holland, H.D. and Turekian, K.K., 2014. Treatise on Geochemistry. [online] Available at: <http://www.sciencedirect.com/science/referenceworks/9780080983004> [Accessed 6 Feb. 2021].
-Jørgensen, S.E. and Fath, B.D., 2008. Encyclopedia of Ecology. Amsterdam; Boston: Elsevier.
-Sperry, J.S., Venturas, M.D., Todd, H.N., Trugman, A.T., Anderegg, W.R.L., Wang, Y. and Tai, X., 2019. The impact of rising CO2 and acclimation on the response of US forests to global warming. Proceedings of the National Academy of Sciences, 116(51), pp.25734–25744.
-Wang, M., Chen, J.M. and Wang, S., 2020. Reconstructing the Seasonality and Trend in Global Leaf Area Index During 2001–2017 for Prognostic Modeling. Journal of Geophysical Research: Biogeosciences, 125(9), p.e2020JG005698.
+Center for the Study of Carbon Dioxide and Global Change, 2021. *CO2 Fertilization Effects on Global Leaf Area Index*. [online] CO2 Science. Available at: <http://www.co2science.org/articles/V24/jan/a5.php> [Accessed 6 Feb. 2021].
+Hille, K., 2016. *Carbon Dioxide Fertilization Greening Earth, Study Finds*. [Text] NASA. Available at: <http://www.nasa.gov/feature/goddard/2016/carbon-dioxide-fertilization-greening-earth> [Accessed 6 Feb. 2021].
+Holland, H.D. and Turekian, K.K., 2014. *Treatise on Geochemistry*. [online] Available at: <http://www.sciencedirect.com/science/referenceworks/9780080983004> [Accessed 6 Feb. 2021].
+Jørgensen, S.E. and Fath, B.D., 2008. *Encyclopedia of Ecology*. Amsterdam; Boston: Elsevier.
+Sperry, J.S., Venturas, M.D., Todd, H.N., Trugman, A.T., Anderegg, W.R.L., Wang, Y. and Tai, X., 2019. The impact of rising CO2 and acclimation on the response of US forests to global warming. *Proceedings of the National Academy of Sciences*, 116(51), pp.25734–25744.
+Wang, M., Chen, J.M. and Wang, S., 2020. Reconstructing the Seasonality and Trend in Global Leaf Area Index During 2001–2017 for Prognostic Modeling. *Journal of Geophysical Research: Biogeosciences*, 125(9), p.e2020JG005698.
 
