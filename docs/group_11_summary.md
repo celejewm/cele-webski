@@ -20,14 +20,17 @@ One way to measure SLR is through satellite image analysis. Using open-source sa
 Figure 1: A map depicting the chosen sites for satellite imagery sea surface temperature analysis (created by authors in ArcGIS Pro).
 
 
+
 ![Figure 2](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%202.png) 
 
 Figure 2: A graph depicting the sea surface temperatures over time at Site A based on ENVI analysis (created by authors in Microsoft Excel).
 
 
+
 ![Figure 3](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%203.png) 
 
 Figure 3: A graph depicting the sea surface temperatures over time at Site B based on ENVI analysis (created by authors in Microsoft Excel).
+
 
 
 ![Figure 4](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%20four.png) 
@@ -38,12 +41,13 @@ Figure 4: A graph depicting the sea surface temperatures over time at Site C bas
  
  
  
+ 
 Looking at the figures above, a common trend can be clearly identified. At each site, temperatures increased over the past 40 years, and while more thorough analysis is needed to confirm these findings, temperature increases such as the ones found above would lead to thermal expansion and SLR.
  
 ## Real-World Examples
  
 Miami Beach sits at only 1.20 m above sea level and has consistently been “sinking” over the past century due to SLR (U.S. Census Bureau, 2021). This case study discussed the increase in floods in Miami Beach between 2003 and 2013 through a time series of tidal gauge data. Though this case study was only limited to ten years, there was still an overall increase in flooding and an increase in floods due to extreme weather events—two outcomes directly related to temperature increase within the scope of climate change (Wdowinski et al., 2016). 
-Another case study looked at João Pessoa in Brazil. João Pessoa is known to experience cyclical phases of erosion and accretion. Thus, the shoreline levels for João Pessoa were analyzed for levels of erosion and accretion from 1985 to 2019 using Landsat satellite data (Santos et al., 2020). It was found that as years progressed, cycles of erosion and accretion became more severe, i.e. later in the time series, both cycles of erosion and accretion were at higher values with respect to earlier data (Santos et al., 2020). This could be due to increased water content in the ocean as a result of increased temperatures, which causes movement of a large volume of water, and subsequently larger levels of accretion and erosion.
+Another case study looked at João Pessoa in Brazil. João Pessoa is known to experience cyclical phases of erosion and accretion. Thus, the shoreline levels for João Pessoa were analyzed for levels of erosion and accretion from 1985 to 2019 using Landsat satellite data (Santos et al., 2020). It was found that as years progressed, cycles of erosion and accretion became more severe, i.e. later in the time series, both cycles of erosion and accretion were at higher values with respect to earlier data (Santos et al., 2020). This could be due to increased water content in the ocean because of increased temperatures, which causes movement of a large volume of water, and subsequently larger levels of accretion and erosion.
  
  
 ## References
