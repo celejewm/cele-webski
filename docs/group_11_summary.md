@@ -16,9 +16,8 @@ One way to measure SLR is through satellite image analysis. Using open-source sa
  
  
 ![Figure 1](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%201.png)
-Format: ![Figure 1: A map depicting the chosen sites for satellite imagery sea surface temperature analysis (created by authors in ArcGIS Pro).]
 
-
+Figure 1: A map depicting the chosen sites for satellite imagery sea surface temperature analysis (created by authors in ArcGIS Pro).
 
  
 Figure 2: A graph depicting the sea surface temperatures over time at Site A based on ENVI analysis (created by authors in Microsoft Excel).
