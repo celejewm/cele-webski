@@ -30,7 +30,7 @@ Figure 2: A graph depicting the sea surface temperatures over time at Site A bas
 Figure 3: A graph depicting the sea surface temperatures over time at Site B based on ENVI analysis (created by authors in Microsoft Excel).
 
 
-![Figure 4](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%204.png) 
+![Figure 4](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%20four.png) 
 
 Figure 4: A graph depicting the sea surface temperatures over time at Site C based on ENVI analysis (created by authors in Microsoft Excel).
  
