@@ -15,8 +15,9 @@ Thermal expansion refers to the tendency of matter to increase in volume in resp
 One way to measure SLR is through satellite image analysis. Using open-source satellite data and imagery analysis software, it is possible to measure sea surface temperature (SST), which provides insight into the thermal expansion of water (Campbell and Wynne, 2011). Satellite programs such as Landsat, which started in 1972, provide huge databases of present and historical imagery (USGS, 2020). This allows for the analysis of SSTs over time, an example of which can be seen below.
  
  
+![Figure 1](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%201.png)
+Format: ![Figure 1: A map depicting the chosen sites for satellite imagery sea surface temperature analysis (created by authors in ArcGIS Pro).]
 
-Figure 1: A map depicting the chosen sites for satellite imagery sea surface temperature analysis (created by authors in ArcGIS Pro).
 
 
  
