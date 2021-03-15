@@ -15,25 +15,29 @@ Thermal expansion refers to the tendency of matter to increase in volume in resp
 One way to measure SLR is through satellite image analysis. Using open-source satellite data and imagery analysis software, it is possible to measure sea surface temperature (SST), which provides insight into the thermal expansion of water (Campbell and Wynne, 2011). Satellite programs such as Landsat, which started in 1972, provide huge databases of present and historical imagery (USGS, 2020). This allows for the analysis of SSTs over time, an example of which can be seen below.
  
  
-![Figure 1](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%201.png)
-
+<p align="center">
+  <img width="702" height="694" src="https://github.com/celejewm/cele-webski/blob/main/docs/Figure%201.png">
+</p>
 Figure 1: A map depicting the chosen sites for satellite imagery sea surface temperature analysis (created by authors in ArcGIS Pro).
 
 
 
-![Figure 2](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%202.png) 
-
+<p align="center">
+  <img width="1029" height="613" src="https://github.com/celejewm/cele-webski/blob/main/docs/Figure%202.png">
+</p>
 Figure 2: A graph depicting the sea surface temperatures over time at Site A based on ENVI analysis (created by authors in Microsoft Excel).
 
 
-
-![Figure 3](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%203.png) 
-
+<p align="center">
+  <img width="1031" height="615" src="https://github.com/celejewm/cele-webski/blob/main/docs/Figure%203.png">
+</p>
 Figure 3: A graph depicting the sea surface temperatures over time at Site B based on ENVI analysis (created by authors in Microsoft Excel).
 
 
 
-![Figure 4](https://github.com/celejewm/cele-webski/blob/main/docs/Figure%20four.png) 
+<p align="center">
+  <img width="1029" height="614" src="https://github.com/celejewm/cele-webski/blob/main/docs/Figure%20four.png">
+</p>
 
 Figure 4: A graph depicting the sea surface temperatures over time at Site C based on ENVI analysis (created by authors in Microsoft Excel).
  
